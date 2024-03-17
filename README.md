@@ -4,7 +4,7 @@
 
 <h1 align="center"> 🛒 Mart Management & Billing System 📊 h1>
 
-Welcome to our Mart Management & Billing System software—a helpful assistant for stores! Our project simplifies employee management, product tracking, and sales handling, all securely stored on your computer. No internet? No worries! Our system operates smoothly offline.
+#Welcome to our Mart Management & Billing System software—a helpful assistant for stores! Our project simplifies employee management, product tracking, and sales handling, all securely stored on your computer. No internet? No worries! Our system operates smoothly offline.
 
 ## 🚀 Features
 
