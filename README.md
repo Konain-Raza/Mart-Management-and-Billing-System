@@ -2,7 +2,8 @@
   <img src="https://github.com/Konain-Raza/Mart-Management-and-Billing-System/blob/main/mart-icon.png" alt="Logo" width="200">
 </p>
 
-<h1 align="center"> 🛒 Mart Management & Billing System 📊 h1>
+<p align="center" style="font-size: 24px; font-weight: bold;">🛒 Mart Management & Billing System 📊</p>
+
 
 #Welcome to our Mart Management & Billing System software—a helpful assistant for stores! Our project simplifies employee management, product tracking, and sales handling, all securely stored on your computer. No internet? No worries! Our system operates smoothly offline.
 
