@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Logo" width="200">
+  <img src="https://github.com/Konain-Raza/Mart-Management-and-Billing-System/blob/main/mart-icon.png" alt="Logo" width="200">
 </p>
 
 # 🛒 Mart Management & Billing System 📊
